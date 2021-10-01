@@ -1,0 +1,27 @@
+#container {
+  border: 10px solid rgb(34, 179, 99);
+  border-radius: 10px;
+  /* margin: center; */
+  max-width: 900px;
+  height: 200px;
+  padding: 5px;
+  margin: 50px;
+}
+img {
+  min-width: 200px;
+  max-width: 300px;
+  height: 150px;
+  float: left;
+  margin: 30px 20px 50px 20px;
+  /* background-size: cover; */
+  border-radius: 10px;
+}
+p {
+  margin: 0px 0px 0px 0px;
+  /* text-align: center; */
+  box-sizing: content-box;
+}
+header {
+  color: green;
+  padding: 0px;
+}
